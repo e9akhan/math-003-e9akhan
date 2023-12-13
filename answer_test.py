@@ -2,4 +2,4 @@ import answer
 
 
 def test_answer():
-    assert answer.answer() == 4613732
+    assert answer.answer() == 6857

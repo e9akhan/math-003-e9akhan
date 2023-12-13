@@ -1,2 +1,4 @@
+from solver import solver
+
 def answer():
-    return -1
+    return solver(600851475143)
