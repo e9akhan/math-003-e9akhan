@@ -23,3 +23,6 @@ def solver(value):
         if flag==0:
             max_factor = factor
     return max_factor
+
+if __name__ == '__main__':
+    print(solver(value=851239123))
