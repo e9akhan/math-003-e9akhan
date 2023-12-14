@@ -25,4 +25,4 @@ def solver(value):
     return max_factor
 
 if __name__ == '__main__':
-    print(solver(value=851239123))
+    print(f'solver(value=851239123) = {solver(value=851239123)}')
