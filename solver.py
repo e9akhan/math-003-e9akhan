@@ -1,6 +1,6 @@
 """
     Module name :- solver
-    Method(s) :- solver()
+    Method(s) :- solver(value)
 """
 
 from math import sqrt, ceil
