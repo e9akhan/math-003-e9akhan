@@ -15,6 +15,9 @@ def solver(value):
     Return:
         Return the largest prime factor of a given number.
     """
+    if value < 0:
+        return -1
+
     factors = []
     max_factor = 0
 
